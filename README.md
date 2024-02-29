@@ -4,9 +4,13 @@
 
 🌱 Currently studying Web Design and Development at NAIT 
 
+📖 HTML, CSS, JS & working on PHP
+
+📁 Porfolio in progress
+
 💞️ Favorite things: Anime, games, kpop, my cats 
 
-⚡ Always looking for exciting collabs and communities to join 
+⚡ Always looking for exciting collabs and communities to join
 
 <!---
 Vanitzza/Vanitzza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
