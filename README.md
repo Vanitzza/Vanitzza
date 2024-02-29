@@ -4,7 +4,7 @@
 
 🌱 Currently studying Web Design and Development at NAIT 
 
-💞️ Favorite things: Anime, games, my cats 
+💞️ Favorite things: Anime, games, kpop, my cats 
 
 ⚡ Always looking for exciting collabs and communities to join 
 
