@@ -2,15 +2,17 @@
 
 ✨ I'm Vanitzza (vuh-neet-suh), a 1st gen Mexican American turned Canadian. Nice to meet you!
 
-🌱 Currently studying Web Design and Development at NAIT 
+📁 Portfolio: https://vanitzzacruz.ca/
 
-📖 HTML, CSS, JS & working on PHP
+🌱 Recent NAIT graduate with a diploma in Web Design and Development
 
-📁 Porfolio in progress
+💻 Currently freelancing as a Web Designer/Developer
 
-💞️ Favorite things: Anime, video games, kpop, & my cats 
+📖 Skills in Design Fundamentals, Figma, HTML, CSS, JS, React, PHP & More
 
-⚡ Always looking for exciting collabs and communities to join
+💞️ Favorite things: Anime, video games, webtoons, Kpop, & my cats
+
+⚡ Looking for exciting collabs and communities to join
 
 <!---
 Vanitzza/Vanitzza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
